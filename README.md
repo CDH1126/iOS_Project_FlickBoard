@@ -12,12 +12,12 @@
 - 눈의 부담을 줄인 편안한 색상 배색을 적용하여 가독성을 높였습니다.
 
 🧰 기술 스택 <br>
-- OS: iOS 16 <br>
-- 개발 도구: Xcode (iPhone14) <br>
-- 주요 기술: Swift 
+OS: iOS 16 <br>
+개발 도구: Xcode (iPhone14) <br>
+주요 기술: Swift 
 	- URLSession, JSON 파싱, UIKit(TableView, Auto Layout), API<br>
-- 프로젝트 기간: 2024.12.13-2024.12.20
-- 작업인원: 1명 (개인 프로젝트) <br>
+프로젝트 기간: 2024.12.13-2024.12.20
+작업인원: 1명 (개인 프로젝트) <br>
 
 ## 🔍 프로젝트 목표
 ---

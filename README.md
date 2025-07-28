@@ -1,4 +1,4 @@
-# iOS_Project_FlickBoard
+# 📱 iOS_Project_FlickBoard
 
 ![](https://velog.velcdn.com/images/dh1126/post/44d6ab94-674e-43c7-983f-c0a45ad1ff98/image.png)
 
